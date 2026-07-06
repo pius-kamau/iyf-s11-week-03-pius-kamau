@@ -1,1 +1,41 @@
+
+<<<<<<< HEAD
 Line 1: Version A
+=======
+Line 1: Version B
+>>>>>>> feature/b
+Line 1: Version A and Version B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x
+
